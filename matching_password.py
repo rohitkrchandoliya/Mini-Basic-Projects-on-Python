@@ -1,6 +1,6 @@
 print("..............matching password and user for login............")
 correct_user="priyanshi"
-correct_password="1234Nit"
+correct_password="8967pri"
 for i in range(1,4):
    try_user=input("Enter user:")
    try_password=input("Enter password:")
